@@ -1,7 +1,7 @@
 <template>
   <Layout>
-    <h1>About us</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.</p>
+    <h1>About in-naħla</h1>
+    <p>in-naħla.com (“The Bee” in Maltese) is a small consultancy with a focus on internationalization and global enablement.</p>
   </Layout>
 </template>
 
